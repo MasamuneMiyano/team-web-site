@@ -1,0 +1,21 @@
+body{
+    background-color:#00fffb
+}
+h1{
+    margin : 0px ;
+    background-color: #ff00fb;
+    color:#fff200;
+    border-bottom :20px #000000
+}
+p{
+    background-color:#c800ff;
+    color:#fff200;
+}
+h2{
+    background-color: #ff00fb;
+    color:#fff200;
+}
+td{
+    background-color:#c800ff;
+    color:#fff200
+}
