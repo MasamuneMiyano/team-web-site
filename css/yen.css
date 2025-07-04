@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(205, 241, 255);
+}
+
+h1 {
+  margin: 0;        
+  background-color: #ed9eff;
+  border-bottom: solid 4px #7216be;
+  text-align: center;
+}
+
+h2.red {
+  margin: 0px;        
+  color: #FF0000;
+}
+
+p.red {
+  margin: 6px;        
+  color: #FF0000;
+}
+
+p{
+    margin: 6px;
+}
+
+h2.purple{
+    margin: 6px;        
+    background-color: #f4cafd;
+    border-bottom: solid 2px #7216be;
+    border: solid 2px #7216be;
+}
+
+table{
+    margin: 0;
+    padding: 20px 20px 20px 20px;
+    margin: 0;
+}
+
+th{
+    margin: 0;
+    background-color: #f4cafd;
+    border: solid #7216be;
+}
+td{
+    margin: 0;
+    background-color: #eeeeee;
+}

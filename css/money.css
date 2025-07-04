@@ -1,3 +1,17 @@
 h2.red{
     color:#FF0000
 }
+
+h1{
+    background-color: #e194f3;
+    border-bottom: solid 6px #4b1d7a;
+    text-align: center;
+}
+
+p.red{
+    color:#FF0000
+}
+
+body{
+    margin: 0;
+}
